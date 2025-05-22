@@ -1,6 +1,4 @@
-Claro! Abaixo está uma proposta de resposta para cada uma das etapas da atividade teórico-reflexiva sobre Git e GitHub:
 
----
 
 ## **Atividade 1: Desvendando a História dos Projetos: A Lógica do Git**
 
@@ -117,7 +115,3 @@ Ao criar uma branch, o desenvolvedor pode:
 #### 💡 Exemplo de cenário:
 
 Imagine que sua equipe está desenvolvendo um site e alguém precisa implementar um novo sistema de login. Para isso, cria-se uma branch chamada `feature/login-system`. Assim, o desenvolvedor pode trabalhar livremente e só integrar as mudanças ao projeto principal após os testes.
-
----
-
-Se quiser, posso transformar isso em um arquivo `.md` pronto para você usar. Deseja isso?
